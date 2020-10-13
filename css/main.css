@@ -107,4 +107,12 @@ section {
     font-size: 16px;
     color: #364147;
 }
+
+.header-nav {
+    border-bottom: 1px #a0a0a0;
+}
+
+.brand {
+    
+}
 /***************************************/
