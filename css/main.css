@@ -185,4 +185,18 @@ section {
     background-position: center center;
     text-transform: uppercase;
 }
+
+.hero h1 {
+    position: relative 0 0 0 -30px;
+}
+
+.hero h2 {
+    color: #faa541;
+}
+
+.hero h1 h2 {
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 0.9;
+}
 /***************************************/
