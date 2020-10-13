@@ -66,4 +66,11 @@ section {
 .space-between {
     justify-content: space-between;
 }
+
+.btn {
+    border: 0;
+    cursor: auto;
+    padding: 6px 12px 6px 12px;
+    line-height: 1.4;
+}
 /***************************************/
